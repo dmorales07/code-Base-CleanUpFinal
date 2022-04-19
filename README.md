@@ -45,3 +45,6 @@ Run the game:
 ```sh
 python app/game.py
 ```
+run groceries code
+'''''
+ python app/groceries.py
