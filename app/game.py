@@ -8,6 +8,10 @@ from random import choice
 # USER SELECTION
 #
 
+valid_selection = ["rock", "paper", "scissors"] # only have to pudate in one place
+
+
+
 u = input("Please choose one of 'Rock', 'Paper', or 'Scissors': ").lower()
 print("USER CHOICE:", u)
 if u not in ["rock", "paper", "scissors"]:
