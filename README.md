@@ -48,3 +48,11 @@ python app/game.py
 run groceries code
 '''''
  python app/groceries.py
+
+'''''
+ python app/crypto.py
+
+''''
+
+run the groceroes:
+python -m app.groceries
